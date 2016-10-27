@@ -1,0 +1,445 @@
+"","MUNID","LT1NAME","Geographic.code","CD_Name","CSD_type","CSD_Name","AHHI","MHHI"
+"1",1000,"Stormont, Dundas and Glengarry UCo",NA,NA,NA,NA,NA,NA
+"2",10000,"Frontenac Co",NA,NA,NA,NA,NA,NA
+"3",10002,"Frontenac Islands Tp",3510005,"Frontenac","Township","Frontenac Islands",87243,82045
+"4",10005,"Kingston C",3510010,"Frontenac","City","Kingston",76020,59935
+"5",10013,"South Frontenac Tp",3510020,"Frontenac","Township","South Frontenac",91678,81664
+"6",1002,"South Glengarry Tp",3501005,"Stormont, Dundas and Glengarry","Township","South Glengarry",82433,67735
+"7",10025,"Central Frontenac Tp",NA,NA,NA,NA,NA,NA
+"8",10041,"North Frontenac Tp",NA,NA,NA,NA,NA,NA
+"9",1009,"South Stormont Tp",3501011,"Stormont, Dundas and Glengarry","Township","South Stormont",80862,68547
+"10",1012,"Cornwall C",3501012,"Stormont, Dundas and Glengarry","City","Cornwall",53068,41924
+"11",1016,"South Dundas Tp",3501020,"Stormont, Dundas and Glengarry","Township","South Dundas",69683,59003
+"12",1026,"North Dundas Tp",3501030,"Stormont, Dundas and Glengarry","Township","North Dundas",81043,71958
+"13",1037,"North Stormont Tp",3501042,"Stormont, Dundas and Glengarry","Township","North Stormont",76549,66072
+"14",1047,"North Glengarry Tp",3501050,"Stormont, Dundas and Glengarry","Township","North Glengarry",63869,54922
+"15",11000,"Lennox and Addington Co",NA,NA,NA,NA,NA,NA
+"16",11002,"Loyalist Tp",3511005,"Lennox and Addington","Township","Loyalist",77169,69324
+"17",11010,"Greater Napanee T",3511015,"Lennox and Addington","Town","Greater Napanee",66158,55736
+"18",11023,"Stone Mills Tp",3511030,"Lennox and Addington","Township","Stone Mills",76368,70028
+"19",11033,"Addington Highlands Tp",NA,NA,NA,NA,NA,NA
+"20",12000,"Hastings Co",NA,NA,NA,NA,NA,NA
+"21",12001,"Tyendinaga Tp",3512001,"Hastings","Township","Tyendinaga",74338,70435
+"22",12002,"Deseronto T",NA,NA,NA,NA,NA,NA
+"23",12005,"Belleville C",3512005,"Hastings","City","Belleville",65112,52733
+"24",12010,"Quinte West C",3512015,"Hastings","City","Quinte West",70874,60310
+"25",12017,"Stirling-Rawdon Tp",3512020,"Hastings","Township","Stirling-Rawdon",73264,60124
+"26",12023,"Centre Hastings M",3512026,"Hastings","Municipality","Centre Hastings",67826,55478
+"27",12027,"Tweed M",3512030,"Hastings","Municipality","Tweed",55584,43235
+"28",12036,"Madoc Tp",NA,NA,NA,NA,NA,NA
+"29",12039,"Marmora and Lake M",NA,NA,NA,NA,NA,NA
+"30",12048,"Tudor and Cashel Tp",3512048,"Hastings","Township","Tudor and Cashel",46060,38443
+"31",12051,"Limerick Tp",3512051,"Hastings","Township","Limerick",52892,35348
+"32",12054,"Wollaston Tp",NA,NA,NA,NA,NA,NA
+"33",12058,"Faraday Tp",3512058,"Hastings","Township","Faraday",61774,53773
+"34",12061,"Bancroft T",3512061,"Hastings","Town","Bancroft",59131,42825
+"35",12067,"Carlow/Mayo Tp",3512065,"Hastings","Township","Carlow/Mayo",49819,38457
+"36",12073,"Hastings Highlands M",3512076,"Hastings","Municipality","Hastings Highlands",62277,50291
+"37",13002,"Prince Edward County C",3513020,"Prince Edward","City","Prince Edward County",78710,58670
+"38",14000,"Northumberland Co",NA,NA,NA,NA,NA,NA
+"39",14005,"Brighton M",3514004,"Northumberland","Municipality","Brighton",70261,63497
+"40",14010,"Cramahe Tp",3514014,"Northumberland","Township","Cramahe",70604,62027
+"41",14015,"Alnwick-Haldimand Tp",3514024,"Northumberland","Township","Alnwick/Haldimand",89150,78090
+"42",14019,"Hamilton Tp",3525005,"Hamilton","City","Hamilton",76742,60259
+"43",14021,"Cobourg T",3514021,"Northumberland","Town","Cobourg",71723,57611
+"44",14022,"Port Hope M",3514020,"Northumberland","Municipality","Port Hope",79413,62180
+"45",14028,"Trent Hills M",3514045,"Northumberland","Municipality","Trent Hills",63368,53908
+"46",15000,"Peterborough Co",NA,NA,NA,NA,NA,NA
+"47",15002,"Asphodel-Norwood Tp",3515003,"Peterborough","Township","Asphodel-Norwood",67809,54407
+"48",15005,"Otonabee-South Monaghan Tp",3515005,"Peterborough","Township","Otonabee-South Monaghan",86788,77512
+"49",15012,"Cavan Monaghan Tp",NA,NA,NA,NA,NA,NA
+"50",15014,"Peterborough C",3515014,"Peterborough","City","Peterborough",66284,52883
+"51",15017,"Selwyn Tp",NA,NA,NA,NA,NA,NA
+"52",15021,"Douro-Dummer Tp",3515023,"Peterborough","Township","Douro-Dummer",81948,65466
+"53",15030,"Havelock-Belmont-Methuen Tp",NA,NA,NA,NA,NA,NA
+"54",15035,"North Kawartha Tp",NA,NA,NA,NA,NA,NA
+"55",15041,"Trent Lakes M",NA,NA,NA,NA,NA,NA
+"56",16002,"Kawartha Lakes C",3516010,"Kawartha Lakes","City","Kawartha Lakes",72694,59392
+"57",18000,"Durham R",NA,NA,NA,NA,NA,NA
+"58",18001,"Pickering C",3518001,"Durham","City","Pickering",109791,89796
+"59",18005,"Ajax T",3518005,"Durham","Town","Ajax",100305,88262
+"60",18009,"Whitby T",3518009,"Durham","Town","Whitby",109030,94685
+"61",18013,"Oshawa C",3518013,"Durham","City","Oshawa",75833,63136
+"62",18017,"Clarington M",3518017,"Durham","Municipality","Clarington",93990,83439
+"63",18020,"Scugog Tp",3518020,"Durham","Township","Scugog",98262,87817
+"64",18029,"Uxbridge Tp",3518029,"Durham","Township","Uxbridge",114003,90910
+"65",18039,"Brock Tp",3518039,"Durham","Township","Brock",76454,67352
+"66",19000,"York R",NA,NA,NA,NA,NA,NA
+"67",19028,"Vaughan C",3519028,"York","City","Vaughan",113988,93816
+"68",19036,"Markham C",NA,NA,NA,NA,NA,NA
+"69",19038,"Richmond Hill T",3519038,"York","Town","Richmond Hill",108979,87388
+"70",19044,"Whitchurch - Stouffville T",3519044,"York","Town","Whitchurch-Stouffville",113571,93391
+"71",19046,"Aurora T",3519046,"York","Town","Aurora",130552,101923
+"72",19048,"Newmarket T",3519048,"York","Town","Newmarket",103414,88084
+"73",19049,"King Tp",3519049,"York","Township","King",163017,96500
+"74",19054,"East Gwillimbury T",3519054,"York","Town","East Gwillimbury",108663,94038
+"75",19070,"Georgina T",3519070,"York","Town","Georgina",80241,69928
+"76",2000,"Prescott and Russell UCo",NA,NA,NA,NA,NA,NA
+"77",20002,"Toronto C",3520005,"Toronto","City","Toronto",87038,58381
+"78",2001,"East Hawkesbury Tp",3502001,"Prescott and Russell","Township","East Hawkesbury",77742,66310
+"79",2005,"Champlain Tp",3502010,"Prescott and Russell","Township","Champlain",78811,64182
+"80",2008,"Hawkesbury T",3502008,"Prescott and Russell","Town","Hawkesbury",50647,39981
+"81",2011,"The Nation M",3502025,"Prescott and Russell","Municipality","The Nation / La Nation",87119,83564
+"82",2030,"Alfred and Plantagenet Tp",3502023,"Prescott and Russell","Township","Alfred and Plantagenet",67720,59020
+"83",2036,"Clarence-Rockland C",3502036,"Prescott and Russell","City","Clarence-Rockland",90394,82898
+"84",2044,"Casselman V",3502044,"Prescott and Russell","Village","Casselman",82063,73028
+"85",2048,"Russell Tp",3502048,"Prescott and Russell","Township","Russell",104921,99646
+"86",21000,"Peel R",NA,NA,NA,NA,NA,NA
+"87",21005,"Mississauga C",3521005,"Peel","City","Mississauga",95052,75556
+"88",21010,"Brampton C",3521010,"Peel","City","Brampton",89010,77787
+"89",21024,"Caledon T",3521024,"Peel","Town","Caledon",118326,98502
+"90",22000,"Dufferin Co",NA,NA,NA,NA,NA,NA
+"91",22001,"East Garafraxa Tp",3522001,"Dufferin","Township","East Garafraxa",140538,116041
+"92",22005,"Grand Valley T",NA,NA,NA,NA,NA,NA
+"93",22008,"Amaranth Tp",NA,NA,NA,NA,NA,NA
+"94",22012,"Mono T",3522012,"Dufferin","Town","Mono",153487,106273
+"95",22014,"Orangeville T",3522014,"Dufferin","Town","Orangeville",83927,73953
+"96",22016,"Mulmur Tp",3522016,"Dufferin","Township","Mulmur",99930,75076
+"97",22019,"Melancthon Tp",NA,NA,NA,NA,NA,NA
+"98",22021,"Shelburne T",3522021,"Dufferin","Town","Shelburne",66353,63608
+"99",23000,"Wellington Co",NA,NA,NA,NA,NA,NA
+"100",23001,"Puslinch Tp",3523001,"Wellington","Township","Puslinch",127172,89261
+"101",23005,"Guelph/Eramosa Tp",3523009,"Wellington","Township","Guelph/Eramosa",113837,97016
+"102",23008,"Guelph C",3523008,"Wellington","City","Guelph",83047,68570
+"103",23010,"Centre Wellington Tp",3523025,"Wellington","Township","Centre Wellington",91615,77246
+"104",23015,"Erin T",3523017,"Wellington","Town","Erin",116434,96876
+"105",23020,"Wellington North Tp",3523050,"Wellington","Township","Wellington North",67093,58302
+"106",23023,"Mapleton Tp",3523033,"Wellington","Township","Mapleton",86846,77506
+"107",23040,"Minto T",3523043,"Wellington","Town","Minto",66956,57387
+"108",24000,"Halton R",NA,NA,NA,NA,NA,NA
+"109",24001,"Oakville T",3524001,"Halton","Town","Oakville",142490,101713
+"110",24002,"Burlington C",3524002,"Halton","City","Burlington",105503,82494
+"111",24009,"Milton T",3524009,"Halton","Town","Milton",106743,95898
+"112",24015,"Halton Hills T",3524015,"Halton","Town","Halton Hills",112690,94190
+"113",25005,"Hamilton C",3514019,"Northumberland","Township","Hamilton",91078,79962
+"114",26000,"Niagara R",NA,NA,NA,NA,NA,NA
+"115",26003,"Fort Erie T",3526003,"Niagara","Town","Fort Erie",65104,54098
+"116",26011,"Port Colborne C",3526011,"Niagara","City","Port Colborne",65261,52643
+"117",26014,"Wainfleet Tp",3526014,"Niagara","Township","Wainfleet",80158,69574
+"118",26021,"West Lincoln Tp",3526021,"Niagara","Township","West Lincoln",86610,76648
+"119",26028,"Pelham T",3526028,"Niagara","Town","Pelham",105154,84795
+"120",26032,"Welland C",3526032,"Niagara","City","Welland",63220,53238
+"121",26037,"Thorold C",3526037,"Niagara","City","Thorold",70501,59256
+"122",26043,"Niagara Falls C",3526043,"Niagara","City","Niagara Falls",67982,54783
+"123",26047,"Niagara-on-the-Lake T",3526047,"Niagara","Town","Niagara-on-the-Lake",93491,77007
+"124",26053,"St. Catharines C",3526053,"Niagara","City","St. Catharines",68482,54409
+"125",26057,"Lincoln T",3526057,"Niagara","Town","Lincoln",88577,73335
+"126",26065,"Grimsby T",3526065,"Niagara","Town","Grimsby",92038,79036
+"127",28005,"Haldimand County",3528018,"Haldimand-Norfolk","City","Haldimand County",79352,68510
+"128",28030,"Norfolk County",3528052,"Haldimand-Norfolk","City","Norfolk County",70312,57659
+"129",29002,"Brant County",3529005,"Brant","City","Brant",94540,74955
+"130",29006,"Brantford C",3529006,"Brant","City","Brantford",67554,56837
+"131",30000,"Waterloo R",NA,NA,NA,NA,NA,NA
+"132",30001,"North Dumfries Tp",3530004,"Waterloo","Township","North Dumfries",107908,91459
+"133",30006,"Cambridge C",3530010,"Waterloo","City","Cambridge",80958,68373
+"134",30012,"Kitchener C",3530013,"Waterloo","City","Kitchener",76770,63709
+"135",30016,"Waterloo C",3530016,"Waterloo","City","Waterloo",100414,77626
+"136",30018,"Wilmot Tp",3530020,"Waterloo","Township","Wilmot",98154,82802
+"137",30024,"Wellesley Tp",3530027,"Waterloo","Township","Wellesley",95379,85097
+"138",30029,"Woolwich Tp",3530035,"Waterloo","Township","Woolwich",113678,88161
+"139",31000,"Perth Co",NA,NA,NA,NA,NA,NA
+"140",31002,"Perth East Tp",3531030,"Perth","Township","Perth East",83915,74488
+"141",31008,"Perth South Tp",3531013,"Perth","Township","Perth South",97004,80711
+"142",31011,"Stratford C",3531011,"Perth","City","Stratford",71523,56641
+"143",31016,"St. Marys ST",3531016,"Perth","Town","St. Marys",76117,68175
+"144",31017,"West Perth M",3531025,"Perth","Municipality","West Perth",76026,67959
+"145",31035,"North Perth M",3531040,"Perth","Municipality","North Perth",74918,63727
+"146",32000,"Oxford Co",NA,NA,NA,NA,NA,NA
+"147",32002,"Norwich Tp",3532002,"Oxford","Township","Norwich",76885,68178
+"148",32004,"Tillsonburg T",3532004,"Oxford","Town","Tillsonburg",64051,52228
+"149",32011,"South-West Oxford Tp",3532012,"Oxford","Township","South-West Oxford",92489,73996
+"150",32018,"Ingersoll T",3532018,"Oxford","Town","Ingersoll",74778,66366
+"151",32027,"Zorra Tp",3532027,"Oxford","Township","Zorra",88893,75250
+"152",32038,"East Zorra - Tavistock Tp",3532038,"Oxford","Township","East Zorra-Tavistock",83048,77953
+"153",32042,"Woodstock C",3532042,"Oxford","City","Woodstock",68492,57868
+"154",32045,"Blandford - Blenheim Tp",3532045,"Oxford","Township","Blandford-Blenheim",97260,86272
+"155",34000,"Elgin Co",NA,NA,NA,NA,NA,NA
+"156",34003,"Bayham M",3534005,"Elgin","Municipality","Bayham",66666,58543
+"157",34007,"Malahide Tp",3534010,"Elgin","Township","Malahide",71391,60343
+"158",34011,"Aylmer T",3534011,"Elgin","Town","Aylmer",61242,50908
+"159",34015,"Central Elgin M",3534020,"Elgin","Municipality","Central Elgin",83986,73615
+"160",34021,"St. Thomas C",3534021,"Elgin","City","St. Thomas",64621,56599
+"161",34024,"Southwold Tp",3534024,"Elgin","Township","Southwold",91030,80727
+"162",34028,"Dutton-Dunwich M",3534030,"Elgin","Municipality","Dutton/Dunwich",75985,70082
+"163",34035,"West Elgin M",3534042,"Elgin","Municipality","West Elgin",58484,48082
+"164",36003,"Chatham-Kent M",3536020,"Chatham-Kent","Municipality","Chatham-Kent",63843,51851
+"165",37000,"Essex Co",NA,NA,NA,NA,NA,NA
+"166",37001,"Pelee Tp",3537001,"Essex","Township","Pelee",NA,NA
+"167",37003,"Leamington M",3537003,"Essex","Municipality","Leamington",65713,55192
+"168",37008,"Kingsville T",3537013,"Essex","Town","Kingsville",78942,68419
+"169",37020,"Essex T",3537016,"Essex","Town","Essex",74902,62393
+"170",37025,"Amherstburg T",3537028,"Essex","Town","Amherstburg",86116,73115
+"171",37034,"LaSalle T",3537034,"Essex","Town","LaSalle",103034,90737
+"172",37039,"Windsor C",3537039,"Essex","City","Windsor",62175,49113
+"173",37043,"Tecumseh T",3537048,"Essex","Town","Tecumseh",99800,84771
+"174",37049,"Lakeshore T",3537064,"Essex","Town","Lakeshore",95625,82017
+"175",38000,"Lambton Co",NA,NA,NA,NA,NA,NA
+"176",38002,"St. Clair Tp",3538003,"Lambton","Township","St. Clair",86012,72444
+"177",38005,"Dawn-Euphemia Tp",3538007,"Lambton","Township","Dawn-Euphemia",69160,60945
+"178",38011,"Brooke-Alvinston M",3538015,"Lambton","Municipality","Brooke-Alvinston",70767,59893
+"179",38016,"Enniskillen Tp",3538016,"Lambton","Township","Enniskillen",92895,79909
+"180",38018,"Oil Springs V",NA,NA,NA,NA,NA,NA
+"181",38019,"Petrolia T",3538019,"Lambton","Town","Petrolia",70161,63396
+"182",38030,"Sarnia C",3538030,"Lambton","City","Sarnia",75892,56858
+"183",38031,"Point Edward V",3538031,"Lambton","Village","Point Edward",77676,64832
+"184",38033,"Plympton-Wyoming T",3538035,"Lambton","Town","Plympton-Wyoming",93960,78546
+"185",38037,"Lambton Shores M",3538040,"Lambton","Municipality","Lambton Shores",76817,62167
+"186",38040,"Warwick Tp",3538043,"Lambton","Township","Warwick",71291,60132
+"187",39000,"Middlesex Co",NA,NA,NA,NA,NA,NA
+"188",39002,"Newbury V",3539002,"Middlesex","Village","Newbury",50224,40612
+"189",39003,"Southwest Middlesex M",3539005,"Middlesex","Municipality","Southwest Middlesex",63208,55347
+"190",39010,"Adelaide-Metcalfe Tp",3539047,"Middlesex","Township","Adelaide-Metcalfe",81447,69361
+"191",39013,"Strathroy-Caradoc Tp",3539015,"Middlesex","Township","Strathroy-Caradoc",69779,59737
+"192",39020,"Middlesex Centre M",3539033,"Middlesex","Township","Middlesex Centre",112549,91701
+"193",39025,"Thames Centre M",3539027,"Middlesex","Municipality","Thames Centre",100069,80714
+"194",39036,"London C",3539036,"Middlesex","City","London",73107,56241
+"195",39041,"North Middlesex M",3539041,"Middlesex","Municipality","North Middlesex",78566,65680
+"196",39057,"Lucan Biddulph Tp",3539060,"Middlesex","Township","Lucan Biddulph",81839,73073
+"197",40000,"Huron Co",NA,NA,NA,NA,NA,NA
+"198",40003,"South Huron M",3540005,"Huron","Municipality","South Huron",78021,56447
+"199",40010,"Bluewater M",3540010,"Huron","Municipality","Bluewater",74076,57894
+"200",40015,"Huron East M",3540040,"Huron","Municipality","Huron East",70756,60124
+"201",40025,"Central Huron M",3540025,"Huron","Municipality","Central Huron",63761,51954
+"202",40028,"Goderich T",3540028,"Huron","Town","Goderich",69152,56573
+"203",40030,"Ashfield-Colborne-Wawanosh Tp",3540063,"Huron","Township","Ashfield-Colborne-Wawanosh",75319,62288
+"204",40046,"Howick Tp",3540046,"Huron","Township","Howick",69202,63225
+"205",40048,"Morris-Turnberry M",3540050,"Huron","Municipality","Morris-Turnberry",75007,64417
+"206",40050,"North Huron Tp",3540055,"Huron","Township","North Huron",72321,57763
+"207",41000,"Bruce Co",NA,NA,NA,NA,NA,NA
+"208",41004,"South Bruce M",3541004,"Bruce","Municipality","South Bruce",76451,67189
+"209",41010,"Huron-Kinloss Tp",3541015,"Bruce","Township","Huron-Kinloss",92270,72470
+"210",41020,"Kincardine M",3541024,"Bruce","Municipality","Kincardine",96059,78284
+"211",41030,"Brockton M",3541032,"Bruce","Municipality","Brockton",78630,65065
+"212",41037,"Arran-Elderslie M",3541043,"Bruce","Municipality","Arran-Elderslie",76329,60362
+"213",41043,"Saugeen Shores T",3541045,"Bruce","Town","Saugeen Shores",99673,81410
+"214",41053,"The South Bruce Peninsula T",3541055,"Bruce","Town","South Bruce Peninsula",65291,52493
+"215",41061,"Northern Bruce Peninsula M",3541069,"Bruce","Municipality","Northern Bruce Peninsula",66873,50658
+"216",42000,"Grey Co",NA,NA,NA,NA,NA,NA
+"217",42004,"West Grey M",3542004,"Grey","Municipality","West Grey",68572,59205
+"218",42005,"Southgate Tp",3542005,"Grey","Township","Southgate",70545,56480
+"219",42013,"Grey Highlands M",3542015,"Grey","Municipality","Grey Highlands",70773,58943
+"220",42029,"Hanover T",3542029,"Grey","Town","Hanover",64177,46595
+"221",42031,"Chatsworth Tp",3542037,"Grey","Township","Chatsworth",70392,57378
+"222",42041,"The Blue Mountains T",3542045,"Grey","Town","The Blue Mountains",90258,66428
+"223",42047,"Meaford M",3542047,"Grey","Municipality","Meaford",72637,64666
+"224",42055,"Georgian Bluffs Tp",3542053,"Grey","Township","Georgian Bluffs",83566,68520
+"225",42059,"Owen Sound C",3542059,"Grey","City","Owen Sound",61960,49428
+"226",43000,"Simcoe Co",NA,NA,NA,NA,NA,NA
+"227",43002,"Adjala-Tosorontio Tp",NA,NA,NA,NA,NA,NA
+"228",43013,"Bradford-West Gwillimbury T",3543014,"Simcoe","Town","Bradford West Gwillimbury",92290,83205
+"229",43017,"Innisfil T",3543017,"Simcoe","Town","Innisfil",81632,70252
+"230",43021,"Essa Tp",3543021,"Simcoe","Township","Essa",90651,79877
+"231",43025,"New Tecumseth T",3543007,"Simcoe","Town","New Tecumseth",87448,77961
+"232",43030,"Clearview Tp",3543005,"Simcoe","Township","Clearview",82545,69432
+"233",43031,"Collingwood T",3543031,"Simcoe","Town","Collingwood",72915,56131
+"234",43040,"Springwater Tp",3543009,"Simcoe","Township","Springwater",108065,84723
+"235",43042,"Barrie C",3543042,"Simcoe","City","Barrie",80928,69471
+"236",43047,"Oro-Medonte Tp",3543023,"Simcoe","Township","Oro-Medonte",103387,84129
+"237",43050,"Ramara Tp",3543019,"Simcoe","Township","Ramara",76271,65221
+"238",43052,"Orillia C",3543052,"Simcoe","City","Orillia",63896,48972
+"239",43064,"Wasaga Beach T",3543064,"Simcoe","Town","Wasaga Beach",66250,54241
+"240",43068,"Tiny Tp",3543068,"Simcoe","Township","Tiny",77349,65666
+"241",43070,"Tay Tp",3543071,"Simcoe","Township","Tay",71233,60012
+"242",43072,"Penetanguishene T",3543072,"Simcoe","Town","Penetanguishene",68926,55901
+"243",43074,"Midland T",3543074,"Simcoe","Town","Midland",62713,48496
+"244",43080,"Severn Tp",3543015,"Simcoe","Township","Severn",78895,66186
+"245",44000,"Muskoka D",NA,NA,NA,NA,NA,NA
+"246",44002,"Gravenhurst T",3544002,"Muskoka","Town","Gravenhurst",63372,52010
+"247",44018,"Bracebridge T",3544018,"Muskoka","Town","Bracebridge",74616,65932
+"248",44027,"Lake of Bays Tp",NA,NA,NA,NA,NA,NA
+"249",44042,"Huntsville T",3544042,"Muskoka","Town","Huntsville",74217,62673
+"250",44053,"Muskoka Lakes Tp",NA,NA,NA,NA,NA,NA
+"251",44065,"Georgian Bay Tp",NA,NA,NA,NA,NA,NA
+"252",46000,"Haliburton Co",NA,NA,NA,NA,NA,NA
+"253",46002,"Highlands East M",3546005,"Haliburton","Municipality","Highlands East",57580,47434
+"254",46011,"Minden Hills Tp",3546015,"Haliburton","Township","Minden Hills",72890,51693
+"255",46020,"Algonquin Highlands Tp",NA,NA,NA,NA,NA,NA
+"256",46024,"Dysart et al Tp",NA,NA,NA,NA,NA,NA
+"257",47000,"Renfrew Co",NA,NA,NA,NA,NA,NA
+"258",47002,"Arnprior T",3547002,"Renfrew","Town","Arnprior",66287,53250
+"259",47003,"McNab-Braeside Tp",3547003,"Renfrew","Township","McNab/Braeside",81479,75345
+"260",47007,"Greater Madawaska Tp",NA,NA,NA,NA,NA,NA
+"261",47015,"Bonnechere Valley Tp",NA,NA,NA,NA,NA,NA
+"262",47018,"Brudenell, Lyndoch and Raglan Tp",3547020,"Renfrew","Township","Brudenell, Lyndoch and Raglan",49430,38137
+"263",47023,"Madawaska Valley Tp",NA,NA,NA,NA,NA,NA
+"264",47030,"Killaloe, Hagarty and Richards Tp",NA,NA,NA,NA,NA,NA
+"265",47041,"Admaston/Bromley Tp",3547043,"Renfrew","Township","Admaston/Bromley",71156,66668
+"266",47046,"Horton Tp",3547046,"Renfrew","Township","Horton",70605,68433
+"267",47048,"Renfrew T",3547048,"Renfrew","Town","Renfrew",52925,41223
+"268",47050,"Whitewater Region Tp",3547056,"Renfrew","Township","Whitewater Region",63863,55794
+"269",47063,"Laurentian Valley Tp",3547075,"Renfrew","Township","Laurentian Valley",85855,75782
+"270",47064,"Pembroke C",3547064,"Renfrew","City","Pembroke",60123,47801
+"271",47068,"North Algona-Wilberforce Tp",NA,NA,NA,NA,NA,NA
+"272",47077,"Petawawa T",3547076,"Renfrew","Town","Petawawa",84112,76392
+"273",47091,"Laurentian Hills T",3547090,"Renfrew","Town","Laurentian Hills",76236,65350
+"274",47096,"Deep River T",3547096,"Renfrew","Town","Deep River",89984,80604
+"275",47098,"Head, Clara and Maria Tp",3547098,"Renfrew","Township","Head, Clara and Maria",NA,NA
+"276",48001,"South Algonquin Tp",NA,NA,NA,NA,NA,NA
+"277",48017,"Papineau-Cameron Tp",3548013,"Nipissing","Township","Papineau-Cameron",62755,51102
+"278",48019,"Mattawan Tp",3548019,"Nipissing","Township","Mattawan",NA,NA
+"279",48021,"Mattawa T",3548021,"Nipissing","Town","Mattawa",49771,45155
+"280",48022,"Calvin Tp",3548022,"Nipissing","Township","Calvin",70121,68525
+"281",48026,"Bonfield Tp",NA,NA,NA,NA,NA,NA
+"282",48031,"Chisholm Tp",3548031,"Nipissing","Township","Chisholm",65670,53070
+"283",48034,"East Ferris M",NA,NA,NA,NA,NA,NA
+"284",48044,"North Bay C",3548044,"Nipissing","City","North Bay",70804,56609
+"285",48050,"West Nipissing M",3548055,"Nipissing","Municipality","West Nipissing / Nipissing Ouest",62782,51422
+"286",48069,"Temagami M",3548069,"Nipissing","Municipality","Temagami",66079,49757
+"287",49003,"Seguin Tp",NA,NA,NA,NA,NA,NA
+"288",49005,"The Archipelago Tp",NA,NA,NA,NA,NA,NA
+"289",49012,"McMurrich-Monteith Tp",NA,NA,NA,NA,NA,NA
+"290",49014,"Perry Tp",NA,NA,NA,NA,NA,NA
+"291",49018,"Kearney T",NA,NA,NA,NA,NA,NA
+"292",49019,"Armour Tp",NA,NA,NA,NA,NA,NA
+"293",49022,"Burk's Falls V",NA,NA,NA,NA,NA,NA
+"294",49024,"Ryerson Tp",NA,NA,NA,NA,NA,NA
+"295",49028,"McKellar Tp",NA,NA,NA,NA,NA,NA
+"296",49031,"McDougall Tp",3549031,"Parry Sound","Municipality","McDougall",84896,69419
+"297",49032,"Parry Sound T",3549032,"Parry Sound","Town","Parry Sound",57991,45854
+"298",49036,"Carling Tp",3549036,"Parry Sound","Township","Carling",73673,61099
+"299",49039,"Whitestone M",3549039,"Parry Sound","Municipality","Whitestone",52129,44088
+"300",49041,"Magnetawan M",3549043,"Parry Sound","Municipality","Magnetawan",64129,50858
+"301",49046,"Strong Tp",3549046,"Parry Sound","Township","Strong",80663,63976
+"302",49048,"Sundridge V",3549048,"Parry Sound","Village","Sundridge",63054,38871
+"303",49051,"Joly Tp",NA,NA,NA,NA,NA,NA
+"304",49054,"Machar Tp",3549054,"Parry Sound","Township","Machar",62971,55683
+"305",49056,"South River V",NA,NA,NA,NA,NA,NA
+"306",49058,"Powassan M",3549060,"Parry Sound","Municipality","Powassan",69268,62886
+"307",49066,"Callander M",3549066,"Parry Sound","Municipality","Callander",92358,87649
+"308",49071,"Nipissing Tp",3549071,"Parry Sound","Township","Nipissing",93678,69751
+"309",51001,"Tehkummah Tp",3551001,"Manitoulin","Township","Tehkummah",51352,37350
+"310",51009,"Central Manitoulin M",NA,NA,NA,NA,NA,NA
+"311",51011,"Assiginack Tp",3551011,"Manitoulin","Township","Assiginack",58782,47578
+"312",51015,"Northeastern Manitoulin & The Isl. T",3551017,"Manitoulin","Town","Northeastern Manitoulin and the Islands",70391,57446
+"313",51021,"Billings Tp",NA,NA,NA,NA,NA,NA
+"314",51025,"Gordon/Barrie Island M",3551027,"Manitoulin","Municipality","Gordon/Barrie Island",66461,58876
+"315",51026,"Gore Bay T",NA,NA,NA,NA,NA,NA
+"316",51028,"Burpee and Mills Tp",3551028,"Manitoulin","Township","Burpee and Mills",59267,38107
+"317",51034,"Cockburn Island Tp",NA,NA,NA,NA,NA,NA
+"318",52001,"French River M",NA,NA,NA,NA,NA,NA
+"319",52003,"Killarney M",NA,NA,NA,NA,NA,NA
+"320",52004,"St.-Charles M",NA,NA,NA,NA,NA,NA
+"321",52007,"Markstay-Warren M",3552013,"Sudbury","Municipality","Markstay-Warren",69781,54996
+"322",52019,"Sables-Spanish Rivers Tp",NA,NA,NA,NA,NA,NA
+"323",52026,"Espanola T",3552026,"Sudbury","Town","Espanola",72898,61353
+"324",52028,"Baldwin Tp",3552028,"Sudbury","Township","Baldwin",65849,67035
+"325",52031,"Nairn and Hyman Tp",NA,NA,NA,NA,NA,NA
+"326",52092,"Chapleau Tp",3552092,"Sudbury","Township","Chapleau",74470,70201
+"327",53005,"Greater Sudbury C",3553005,"Greater Sudbury / Grand Sudbury","City","Greater Sudbury / Grand Sudbury",76772,62481
+"328",54001,"Coleman Tp",3554001,"Timiskaming","Township","Coleman",66338,54725
+"329",54006,"Latchford T",3554006,"Timiskaming","Town","Latchford",40719,29255
+"330",54008,"Cobalt T",NA,NA,NA,NA,NA,NA
+"331",54010,"Temiskaming Shores C",3554020,"Timiskaming","City","Temiskaming Shores",65325,49760
+"332",54014,"Harris Tp",3554014,"Timiskaming","Township","Harris",113492,90876
+"333",54021,"Hudson Tp",NA,NA,NA,NA,NA,NA
+"334",54024,"Kerns Tp",3554024,"Timiskaming","Township","Kerns",64160,56797
+"335",54026,"Harley Tp",NA,NA,NA,NA,NA,NA
+"336",54029,"Casey Tp",3554029,"Timiskaming","Township","Casey",65274,49879
+"337",54032,"Brethour Tp",NA,NA,NA,NA,NA,NA
+"338",54034,"Hilliard Tp",3554034,"Timiskaming","Township","Hilliard",NA,NA
+"339",54036,"Armstrong Tp",NA,NA,NA,NA,NA,NA
+"340",54038,"Thornloe V",NA,NA,NA,NA,NA,NA
+"341",54042,"James Tp",NA,NA,NA,NA,NA,NA
+"342",54047,"Charlton/Dack M",NA,NA,NA,NA,NA,NA
+"343",54049,"Evanturel Tp",3554049,"Timiskaming","Township","Evanturel",85745,72083
+"344",54052,"Englehart T",NA,NA,NA,NA,NA,NA
+"345",54054,"Chamberlain Tp",NA,NA,NA,NA,NA,NA
+"346",54056,"Matachewan Tp",3554056,"Timiskaming","Township","Matachewan",53737,34176
+"347",54058,"McGarry Tp",3554058,"Timiskaming","Township","McGarry",47905,29360
+"348",54062,"Larder Lake Tp",NA,NA,NA,NA,NA,NA
+"349",54066,"Gauthier Tp",3554066,"Timiskaming","Township","Gauthier",NA,NA
+"350",54068,"Kirkland Lake T",3554068,"Timiskaming","Town","Kirkland Lake",65108,48597
+"351",56014,"Black River - Matheson Tp",3556014,"Cochrane","Township","Black River-Matheson",71131,58124
+"352",56027,"Timmins C",3556027,"Cochrane","City","Timmins",78076,65461
+"353",56031,"Iroquois Falls T",3556031,"Cochrane","Town","Iroquois Falls",69040,55385
+"354",56037,"Cochrane T",3556042,"Cochrane","Town","Cochrane",64418,53398
+"355",56048,"Smooth Rock Falls T",3556048,"Cochrane","Town","Smooth Rock Falls",71091,56927
+"356",56052,"Fauquier-Strickland Tp",3556052,"Cochrane","Township","Fauquier-Strickland",51973,43402
+"357",56056,"Moonbeam Tp",3556056,"Cochrane","Township","Moonbeam",74172,50349
+"358",56065,"Moosonee T",3556106,"Cochrane","Town","Moosonee",69483,52376
+"359",56066,"Kapuskasing T",3556066,"Cochrane","Town","Kapuskasing",66784,53212
+"360",56070,"Val Rita-Harty Tp",3556070,"Cochrane","Township","Val Rita-Harty",69027,66040
+"361",56073,"Opasatika Tp",3556073,"Cochrane","Township","Opasatika",NA,NA
+"362",56076,"Hearst T",3556076,"Cochrane","Town","Hearst",67651,57881
+"363",56077,"Mattice - Val Cote Tp",3556077,"Cochrane","Township","Mattice-Val C?t?",64437,65039
+"364",57001,"Jocelyn Tp",NA,NA,NA,NA,NA,NA
+"365",57004,"Hilton Tp",NA,NA,NA,NA,NA,NA
+"366",57006,"Hilton Beach V",3557006,"Algoma","Village","Hilton Beach",NA,NA
+"367",57008,"St. Joseph Tp",NA,NA,NA,NA,NA,NA
+"368",57011,"Laird Tp",NA,NA,NA,NA,NA,NA
+"369",57014,"Tarbutt and Tarbutt Additional Tp",3557014,"Algoma","Township","Tarbutt and Tarbutt Additional",74748,60458
+"370",57016,"Johnson Tp",3557016,"Algoma","Township","Johnson",57071,47957
+"371",57019,"Plummer Additional Tp",3557019,"Algoma","Township","Plummer Additional",75156,64126
+"372",57021,"Bruce Mines T",3557021,"Algoma","Town","Bruce Mines",56858,40539
+"373",57023,"Huron Shores M",3557035,"Algoma","Municipality","Huron Shores",60863,55526
+"374",57028,"Thessalon T",3557028,"Algoma","Town","Thessalon",58440,47115
+"375",57038,"Blind River T",3557038,"Algoma","Town","Blind River",68035,53432
+"376",57039,"Spanish T",NA,NA,NA,NA,NA,NA
+"377",57040,"The North Shore Tp",3557040,"Algoma","Township","The North Shore",74570,82996
+"378",57041,"Elliot Lake C",3557041,"Algoma","City","Elliot Lake",51321,41773
+"379",57051,"Macdonald Meredith et al Tp",NA,NA,NA,NA,NA,NA
+"380",57061,"Sault Ste. Marie C",3557061,"Algoma","City","Sault Ste. Marie",69456,56051
+"381",57066,"Prince Tp",NA,NA,NA,NA,NA,NA
+"382",57076,"Wawa M",3557076,"Algoma","Municipality","Wawa",65824,53354
+"383",57079,"Dubreuilville Tp",3557079,"Algoma","Township","Dubreuilville",52739,46251
+"384",57091,"White River Tp",3557091,"Algoma","Township","White River",69464,58732
+"385",57096,"Hornepayne Tp",NA,NA,NA,NA,NA,NA
+"386",58001,"Neebing M",3558001,"Thunder Bay","Municipality","Neebing",78509,71031
+"387",58004,"Thunder Bay C",3558004,"Thunder Bay","City","Thunder Bay",71142,57646
+"388",58007,"Oliver Paipoonge M",3558011,"Thunder Bay","Municipality","Oliver Paipoonge",93328,77473
+"389",58012,"Gillies Tp",3558012,"Thunder Bay","Township","Gillies",72728,65127
+"390",58016,"O'Connor Tp",3558016,"Thunder Bay","Township","O'Connor",81794,81720
+"391",58019,"Conmee Tp",3558019,"Thunder Bay","Township","Conmee",73723,65534
+"392",58028,"Shuniah M",3558028,"Thunder Bay","Township","Shuniah",103259,82199
+"393",58034,"Dorion Tp",3558034,"Thunder Bay","Township","Dorion",83779,71546
+"394",58041,"Red Rock Tp",3558041,"Thunder Bay","Township","Red Rock",70302,62254
+"395",58044,"Nipigon Tp",NA,NA,NA,NA,NA,NA
+"396",58051,"Schreiber Tp",3558051,"Thunder Bay","Township","Schreiber",66313,58043
+"397",58054,"Terrace Bay Tp",3558054,"Thunder Bay","Township","Terrace Bay",70658,60501
+"398",58058,"Greenstone M",3558075,"Thunder Bay","Municipality","Greenstone",69107,62643
+"399",58059,"Marathon T",NA,NA,NA,NA,NA,NA
+"400",58066,"Manitouwadge Tp",NA,NA,NA,NA,NA,NA
+"401",59001,"Atikokan Tp",3559001,"Rainy River","Township","Atikokan",62404,46845
+"402",59011,"Alberton Tp",3559011,"Rainy River","Township","Alberton",116433,111672
+"403",59012,"Fort Frances T",3559012,"Rainy River","Town","Fort Frances",72775,58841
+"404",59016,"La Vallee Tp",3559016,"Rainy River","Township","La Vallee",82129,75347
+"405",59019,"Emo Tp",NA,NA,NA,NA,NA,NA
+"406",59024,"Chapple Tp",NA,NA,NA,NA,NA,NA
+"407",59031,"Morley Tp",NA,NA,NA,NA,NA,NA
+"408",59040,"Dawson Tp",3559040,"Rainy River","Township","Dawson",60618,44774
+"409",59042,"Rainy River T",NA,NA,NA,NA,NA,NA
+"410",59045,"Lake of The Woods Tp",NA,NA,NA,NA,NA,NA
+"411",60001,"Ignace Tp",3560001,"Kenora","Township","Ignace",57619,51601
+"412",60008,"Sioux Narrows-Nestor Falls Tp",NA,NA,NA,NA,NA,NA
+"413",60011,"Kenora C",3560010,"Kenora","City","Kenora",74594,65164
+"414",60021,"Machin Tp",NA,NA,NA,NA,NA,NA
+"415",60025,"Dryden C",3560027,"Kenora","City","Dryden",76518,60058
+"416",60034,"Sioux Lookout M",3560034,"Kenora","Municipality","Sioux Lookout",85416,67034
+"417",60040,"Red Lake M",3560042,"Kenora","Municipality","Red Lake",101912,97593
+"418",60042,"Ear Falls Tp",3560032,"Kenora","Township","Ear Falls",66512,67666
+"419",60049,"Pickle Lake Tp",3560049,"Kenora","Township","Pickle Lake",82545,82946
+"420",6005,"Ottawa C",3506008,"Ottawa","City","Ottawa",96815,79634
+"421",7000,"Leeds and Grenville UCo",NA,NA,NA,NA,NA,NA
+"422",7003,"Edwardsburgh/Cardinal Tp",3507004,"Leeds and Grenville","Township","Edwardsburgh/Cardinal",71267,67970
+"423",7006,"Augusta Tp",3507006,"Leeds and Grenville","Township","Augusta",80882,68526
+"424",7008,"Prescott ST",NA,NA,NA,NA,NA,NA
+"425",7011,"Elizabethtown-Kitley Tp",3507014,"Leeds and Grenville","Township","Elizabethtown-Kitley",81599,70563
+"426",7015,"Brockville C",3507015,"Leeds and Grenville","City","Brockville",60324,47903
+"427",7017,"Front of Yonge Tp",3507017,"Leeds and Grenville","Township","Front of Yonge",80839,70446
+"428",7019,"Leeds and the Thousand Islands Tp",3507021,"Leeds and Grenville","Township","Leeds and the Thousand Islands",86531,76414
+"429",7024,"Gananoque ST",3507024,"Leeds and Grenville","Town","Gananoque",62866,49111
+"430",7030,"Rideau Lakes Tp",3507040,"Leeds and Grenville","Township","Rideau Lakes",76163,65405
+"431",7033,"Westport V",3507033,"Leeds and Grenville","Village","Westport",69579,58207
+"432",7040,"Athens Tp",3507042,"Leeds and Grenville","Township","Athens",68858,63754
+"433",7050,"Merrickville-Wolford V",NA,NA,NA,NA,NA,NA
+"434",7055,"North Grenville M",3507065,"Leeds and Grenville","Municipality","North Grenville",90293,82434
+"435",9000,"Lanark Co",NA,NA,NA,NA,NA,NA
+"436",9001,"Montague Tp",3509001,"Lanark","Township","Montague",79081,70200
+"437",9004,"Smiths Falls ST",3509004,"Lanark","Town","Smiths Falls",53282,45469
+"438",9007,"Drummond-North Elmsley Tp",NA,NA,NA,NA,NA,NA
+"439",9010,"Tay Valley Tp",NA,NA,NA,NA,NA,NA
+"440",9021,"Perth T",3509021,"Lanark","Town","Perth",60345,47201
+"441",9024,"Beckwith Tp",3509024,"Lanark","Township","Beckwith",101191,96350
+"442",9028,"Carleton Place T",3509028,"Lanark","Town","Carleton Place",76321,67465
+"443",9030,"Mississippi Mills T",3509030,"Lanark","Town","Mississippi Mills",88888,78953
+"444",9033,"Lanark Highlands Tp",NA,NA,NA,NA,NA,NA

@@ -1,0 +1,335 @@
+Geographic.code,CD_Name,CSD_type,CSD_Name,LT1NAME,AHHI,MHHI
+3501005,"Stormont, Dundas and Glengarry",Township,South Glengarry,South Glengarry Tp,82433,67735
+3501011,"Stormont, Dundas and Glengarry",Township,South Stormont,South Stormont Tp,80862,68547
+3501012,"Stormont, Dundas and Glengarry",City,Cornwall,Cornwall C,53068,41924
+3501020,"Stormont, Dundas and Glengarry",Township,South Dundas,South Dundas Tp,69683,59003
+3501030,"Stormont, Dundas and Glengarry",Township,North Dundas,North Dundas Tp,81043,71958
+3501042,"Stormont, Dundas and Glengarry",Township,North Stormont,North Stormont Tp,76549,66072
+3501050,"Stormont, Dundas and Glengarry",Township,North Glengarry,North Glengarry Tp,63869,54922
+3502001,Prescott and Russell,Township,East Hawkesbury,East Hawkesbury Tp,77742,66310
+3502008,Prescott and Russell,Town,Hawkesbury,Hawkesbury T,50647,39981
+3502010,Prescott and Russell,Township,Champlain,Champlain Tp,78811,64182
+3502023,Prescott and Russell,Township,Alfred and Plantagenet,Alfred and Plantagenet Tp,67720,59020
+3502025,Prescott and Russell,Municipality,The Nation / La Nation,The Nation M,87119,83564
+3502036,Prescott and Russell,City,Clarence-Rockland,Clarence-Rockland C,90394,82898
+3502044,Prescott and Russell,Village,Casselman,Casselman V,82063,73028
+3502048,Prescott and Russell,Township,Russell,Russell Tp,104921,99646
+3506008,Ottawa,City,Ottawa,Ottawa C,96815,79634
+3507004,Leeds and Grenville,Township,Edwardsburgh/Cardinal,Edwardsburgh/Cardinal Tp,71267,67970
+3507006,Leeds and Grenville,Township,Augusta,Augusta Tp,80882,68526
+3507014,Leeds and Grenville,Township,Elizabethtown-Kitley,Elizabethtown-Kitley Tp,81599,70563
+3507015,Leeds and Grenville,City,Brockville,Brockville C,60324,47903
+3507017,Leeds and Grenville,Township,Front of Yonge,Front of Yonge Tp,80839,70446
+3507021,Leeds and Grenville,Township,Leeds and the Thousand Islands,Leeds and the Thousand Islands Tp,86531,76414
+3507024,Leeds and Grenville,Town,Gananoque,Gananoque ST,62866,49111
+3507033,Leeds and Grenville,Village,Westport,Westport V,69579,58207
+3507040,Leeds and Grenville,Township,Rideau Lakes,Rideau Lakes Tp,76163,65405
+3507042,Leeds and Grenville,Township,Athens,Athens Tp,68858,63754
+3507065,Leeds and Grenville,Municipality,North Grenville,North Grenville M,90293,82434
+3509001,Lanark,Township,Montague,Montague Tp,79081,70200
+3509004,Lanark,Town,Smiths Falls,Smiths Falls ST,53282,45469
+3509021,Lanark,Town,Perth,Perth T,60345,47201
+3509024,Lanark,Township,Beckwith,Beckwith Tp,101191,96350
+3509028,Lanark,Town,Carleton Place,Carleton Place T,76321,67465
+3509030,Lanark,Town,Mississippi Mills,Mississippi Mills T,88888,78953
+3510005,Frontenac,Township,Frontenac Islands,Frontenac Islands Tp,87243,82045
+3510010,Frontenac,City,Kingston,Kingston C,76020,59935
+3510020,Frontenac,Township,South Frontenac,South Frontenac Tp,91678,81664
+3511005,Lennox and Addington,Township,Loyalist,Loyalist Tp,77169,69324
+3511015,Lennox and Addington,Town,Greater Napanee,Greater Napanee T,66158,55736
+3511030,Lennox and Addington,Township,Stone Mills,Stone Mills Tp,76368,70028
+3512001,Hastings,Township,Tyendinaga,Tyendinaga Tp,74338,70435
+3512005,Hastings,City,Belleville,Belleville C,65112,52733
+3512015,Hastings,City,Quinte West,Quinte West C,70874,60310
+3512020,Hastings,Township,Stirling-Rawdon,Stirling-Rawdon Tp,73264,60124
+3512026,Hastings,Municipality,Centre Hastings,Centre Hastings M,67826,55478
+3512030,Hastings,Municipality,Tweed,Tweed M,55584,43235
+3512048,Hastings,Township,Tudor and Cashel,Tudor and Cashel Tp,46060,38443
+3512051,Hastings,Township,Limerick,Limerick Tp,52892,35348
+3512058,Hastings,Township,Faraday,Faraday Tp,61774,53773
+3512061,Hastings,Town,Bancroft,Bancroft T,59131,42825
+3512065,Hastings,Township,Carlow/Mayo,Carlow/Mayo Tp,49819,38457
+3512076,Hastings,Municipality,Hastings Highlands,Hastings Highlands M,62277,50291
+3513020,Prince Edward,City,Prince Edward County,Prince Edward County C,78710,58670
+3514004,Northumberland,Municipality,Brighton,Brighton M,70261,63497
+3514014,Northumberland,Township,Cramahe,Cramahe Tp,70604,62027
+3514019,Northumberland,Township,Hamilton,Hamilton C,91078,79962
+3514020,Northumberland,Municipality,Port Hope,Port Hope M,79413,62180
+3514021,Northumberland,Town,Cobourg,Cobourg T,71723,57611
+3514024,Northumberland,Township,Alnwick/Haldimand,Alnwick-Haldimand Tp,89150,78090
+3514045,Northumberland,Municipality,Trent Hills,Trent Hills M,63368,53908
+3515003,Peterborough,Township,Asphodel-Norwood,Asphodel-Norwood Tp,67809,54407
+3515005,Peterborough,Township,Otonabee-South Monaghan,Otonabee-South Monaghan Tp,86788,77512
+3515014,Peterborough,City,Peterborough,Peterborough C,66284,52883
+3515015,Peterborough,Township,Smith-Ennismore-Lakefield,Smith-Ennismore-Lakefield Tp,91105,74114
+3515023,Peterborough,Township,Douro-Dummer,Douro-Dummer Tp,81948,65466
+3516010,Kawartha Lakes,City,Kawartha Lakes,Kawartha Lakes C,72694,59392
+3518001,Durham,City,Pickering,Pickering C,109791,89796
+3518005,Durham,Town,Ajax,Ajax T,100305,88262
+3518009,Durham,Town,Whitby,Whitby T,109030,94685
+3518013,Durham,City,Oshawa,Oshawa C,75833,63136
+3518017,Durham,Municipality,Clarington,Clarington M,93990,83439
+3518020,Durham,Township,Scugog,Scugog Tp,98262,87817
+3518029,Durham,Township,Uxbridge,Uxbridge Tp,114003,90910
+3518039,Durham,Township,Brock,Brock Tp,76454,67352
+3519028,York,City,Vaughan,Vaughan C,113988,93816
+3519036,York,Town,Markham,Markham T,108520,86022
+3519038,York,Town,Richmond Hill,Richmond Hill T,108979,87388
+3519044,York,Town,Whitchurch-Stouffville,Whitchurch - Stouffville T,113571,93391
+3519046,York,Town,Aurora,Aurora T,130552,101923
+3519048,York,Town,Newmarket,Newmarket T,103414,88084
+3519049,York,Township,King,King Tp,163017,96500
+3519054,York,Town,East Gwillimbury,East Gwillimbury T,108663,94038
+3519070,York,Town,Georgina,Georgina T,80241,69928
+3520005,Toronto,City,Toronto,Toronto C,87038,58381
+3521005,Peel,City,Mississauga,Mississauga C,95052,75556
+3521010,Peel,City,Brampton,Brampton C,89010,77787
+3521024,Peel,Town,Caledon,Caledon T,118326,98502
+3522001,Dufferin,Township,East Garafraxa,East Garafraxa Tp,140538,116041
+3522010,Dufferin,Township,East Luther Grand Valley,East Luther Grand Valley Tp,68259,66078
+3522012,Dufferin,Town,Mono,Mono T,153487,106273
+3522014,Dufferin,Town,Orangeville,Orangeville T,83927,73953
+3522016,Dufferin,Township,Mulmur,Mulmur Tp,99930,75076
+3522021,Dufferin,Town,Shelburne,Shelburne T,66353,63608
+3523001,Wellington,Township,Puslinch,Puslinch Tp,127172,89261
+3523008,Wellington,City,Guelph,Guelph C,83047,68570
+3523009,Wellington,Township,Guelph/Eramosa,Guelph/Eramosa Tp,113837,97016
+3523017,Wellington,Town,Erin,Erin T,116434,96876
+3523025,Wellington,Township,Centre Wellington,Centre Wellington Tp,91615,77246
+3523033,Wellington,Township,Mapleton,Mapleton Tp,86846,77506
+3523043,Wellington,Town,Minto,Minto T,66956,57387
+3523050,Wellington,Township,Wellington North,Wellington North Tp,67093,58302
+3524001,Halton,Town,Oakville,Oakville T,142490,101713
+3524002,Halton,City,Burlington,Burlington C,105503,82494
+3524009,Halton,Town,Milton,Milton T,106743,95898
+3524015,Halton,Town,Halton Hills,Halton Hills T,112690,94190
+3525005,Hamilton,City,Hamilton,Hamilton Tp,76742,60259
+3526003,Niagara,Town,Fort Erie,Fort Erie T,65104,54098
+3526011,Niagara,City,Port Colborne,Port Colborne C,65261,52643
+3526014,Niagara,Township,Wainfleet,Wainfleet Tp,80158,69574
+3526021,Niagara,Township,West Lincoln,West Lincoln Tp,86610,76648
+3526028,Niagara,Town,Pelham,Pelham T,105154,84795
+3526032,Niagara,City,Welland,Welland C,63220,53238
+3526037,Niagara,City,Thorold,Thorold C,70501,59256
+3526043,Niagara,City,Niagara Falls,Niagara Falls C,67982,54783
+3526047,Niagara,Town,Niagara-on-the-Lake,Niagara-on-the-Lake T,93491,77007
+3526053,Niagara,City,St. Catharines,St. Catharines C,68482,54409
+3526057,Niagara,Town,Lincoln,Lincoln T,88577,73335
+3526065,Niagara,Town,Grimsby,Grimsby T,92038,79036
+3528018,Haldimand-Norfolk,City,Haldimand County,Haldimand County,79352,68510
+3528052,Haldimand-Norfolk,City,Norfolk County,Norfolk County,70312,57659
+3529005,Brant,City,Brant,Brant County,94540,74955
+3529006,Brant,City,Brantford,Brantford C,67554,56837
+3530004,Waterloo,Township,North Dumfries,North Dumfries Tp,107908,91459
+3530010,Waterloo,City,Cambridge,Cambridge C,80958,68373
+3530013,Waterloo,City,Kitchener,Kitchener C,76770,63709
+3530016,Waterloo,City,Waterloo,Waterloo C,100414,77626
+3530020,Waterloo,Township,Wilmot,Wilmot Tp,98154,82802
+3530027,Waterloo,Township,Wellesley,Wellesley Tp,95379,85097
+3530035,Waterloo,Township,Woolwich,Woolwich Tp,113678,88161
+3531011,Perth,City,Stratford,Stratford C,71523,56641
+3531013,Perth,Township,Perth South,Perth South Tp,97004,80711
+3531016,Perth,Town,St. Marys,St. Marys ST,76117,68175
+3531025,Perth,Municipality,West Perth,West Perth M,76026,67959
+3531030,Perth,Township,Perth East,Perth East Tp,83915,74488
+3531040,Perth,Municipality,North Perth,North Perth M,74918,63727
+3532002,Oxford,Township,Norwich,Norwich Tp,76885,68178
+3532004,Oxford,Town,Tillsonburg,Tillsonburg T,64051,52228
+3532012,Oxford,Township,South-West Oxford,South-West Oxford Tp,92489,73996
+3532018,Oxford,Town,Ingersoll,Ingersoll T,74778,66366
+3532027,Oxford,Township,Zorra,Zorra Tp,88893,75250
+3532038,Oxford,Township,East Zorra-Tavistock,East Zorra - Tavistock Tp,83048,77953
+3532042,Oxford,City,Woodstock,Woodstock C,68492,57868
+3532045,Oxford,Township,Blandford-Blenheim,Blandford - Blenheim Tp,97260,86272
+3534005,Elgin,Municipality,Bayham,Bayham M,66666,58543
+3534010,Elgin,Township,Malahide,Malahide Tp,71391,60343
+3534011,Elgin,Town,Aylmer,Aylmer T,61242,50908
+3534020,Elgin,Municipality,Central Elgin,Central Elgin M,83986,73615
+3534021,Elgin,City,St. Thomas,St. Thomas C,64621,56599
+3534024,Elgin,Township,Southwold,Southwold Tp,91030,80727
+3534030,Elgin,Municipality,Dutton/Dunwich,Dutton-Dunwich M,75985,70082
+3534042,Elgin,Municipality,West Elgin,West Elgin M,58484,48082
+3536020,Chatham-Kent,Municipality,Chatham-Kent,Chatham-Kent M,63843,51851
+3537001,Essex,Township,Pelee,Pelee Tp,NA,NA
+3537003,Essex,Municipality,Leamington,Leamington M,65713,55192
+3537013,Essex,Town,Kingsville,Kingsville T,78942,68419
+3537016,Essex,Town,Essex,Essex T,74902,62393
+3537028,Essex,Town,Amherstburg,Amherstburg T,86116,73115
+3537034,Essex,Town,LaSalle,LaSalle T,103034,90737
+3537039,Essex,City,Windsor,Windsor C,62175,49113
+3537048,Essex,Town,Tecumseh,Tecumseh T,99800,84771
+3537064,Essex,Town,Lakeshore,Lakeshore T,95625,82017
+3538003,Lambton,Township,St. Clair,St. Clair Tp,86012,72444
+3538007,Lambton,Township,Dawn-Euphemia,Dawn-Euphemia Tp,69160,60945
+3538015,Lambton,Municipality,Brooke-Alvinston,Brooke-Alvinston M,70767,59893
+3538016,Lambton,Township,Enniskillen,Enniskillen Tp,92895,79909
+3538019,Lambton,Town,Petrolia,Petrolia T,70161,63396
+3538030,Lambton,City,Sarnia,Sarnia C,75892,56858
+3538031,Lambton,Village,Point Edward,Point Edward V,77676,64832
+3538035,Lambton,Town,Plympton-Wyoming,Plympton-Wyoming T,93960,78546
+3538040,Lambton,Municipality,Lambton Shores,Lambton Shores M,76817,62167
+3538043,Lambton,Township,Warwick,Warwick Tp,71291,60132
+3539002,Middlesex,Village,Newbury,Newbury V,50224,40612
+3539005,Middlesex,Municipality,Southwest Middlesex,Southwest Middlesex M,63208,55347
+3539015,Middlesex,Township,Strathroy-Caradoc,Strathroy-Caradoc Tp,69779,59737
+3539027,Middlesex,Municipality,Thames Centre,Thames Centre M,100069,80714
+3539033,Middlesex,Township,Middlesex Centre,Middlesex Centre M,112549,91701
+3539036,Middlesex,City,London,London C,73107,56241
+3539041,Middlesex,Municipality,North Middlesex,North Middlesex M,78566,65680
+3539047,Middlesex,Township,Adelaide-Metcalfe,Adelaide-Metcalfe Tp,81447,69361
+3539060,Middlesex,Township,Lucan Biddulph,Lucan Biddulph Tp,81839,73073
+3540005,Huron,Municipality,South Huron,South Huron M,78021,56447
+3540010,Huron,Municipality,Bluewater,Bluewater M,74076,57894
+3540025,Huron,Municipality,Central Huron,Central Huron M,63761,51954
+3540028,Huron,Town,Goderich,Goderich T,69152,56573
+3540040,Huron,Municipality,Huron East,Huron East M,70756,60124
+3540046,Huron,Township,Howick,Howick Tp,69202,63225
+3540050,Huron,Municipality,Morris-Turnberry,Morris-Turnberry M,75007,64417
+3540055,Huron,Township,North Huron,North Huron Tp,72321,57763
+3540063,Huron,Township,Ashfield-Colborne-Wawanosh,Ashfield-Colborne-Wawanosh Tp,75319,62288
+3541004,Bruce,Municipality,South Bruce,South Bruce M,76451,67189
+3541015,Bruce,Township,Huron-Kinloss,Huron-Kinloss Tp,92270,72470
+3541024,Bruce,Municipality,Kincardine,Kincardine M,96059,78284
+3541032,Bruce,Municipality,Brockton,Brockton M,78630,65065
+3541043,Bruce,Municipality,Arran-Elderslie,Arran-Elderslie M,76329,60362
+3541045,Bruce,Town,Saugeen Shores,Saugeen Shores T,99673,81410
+3541055,Bruce,Town,South Bruce Peninsula,The South Bruce Peninsula T,65291,52493
+3541069,Bruce,Municipality,Northern Bruce Peninsula,Northern Bruce Peninsula M,66873,50658
+3542004,Grey,Municipality,West Grey,West Grey M,68572,59205
+3542005,Grey,Township,Southgate,Southgate Tp,70545,56480
+3542015,Grey,Municipality,Grey Highlands,Grey Highlands M,70773,58943
+3542029,Grey,Town,Hanover,Hanover T,64177,46595
+3542037,Grey,Township,Chatsworth,Chatsworth Tp,70392,57378
+3542045,Grey,Town,The Blue Mountains,The Blue Mountains T,90258,66428
+3542047,Grey,Municipality,Meaford,Meaford M,72637,64666
+3542053,Grey,Township,Georgian Bluffs,Georgian Bluffs Tp,83566,68520
+3542059,Grey,City,Owen Sound,Owen Sound C,61960,49428
+3543005,Simcoe,Township,Clearview,Clearview Tp,82545,69432
+3543007,Simcoe,Town,New Tecumseth,New Tecumseth T,87448,77961
+3543009,Simcoe,Township,Springwater,Springwater Tp,108065,84723
+3543014,Simcoe,Town,Bradford West Gwillimbury,Bradford-West Gwillimbury T,92290,83205
+3543015,Simcoe,Township,Severn,Severn Tp,78895,66186
+3543017,Simcoe,Town,Innisfil,Innisfil T,81632,70252
+3543019,Simcoe,Township,Ramara,Ramara Tp,76271,65221
+3543021,Simcoe,Township,Essa,Essa Tp,90651,79877
+3543023,Simcoe,Township,Oro-Medonte,Oro-Medonte Tp,103387,84129
+3543031,Simcoe,Town,Collingwood,Collingwood T,72915,56131
+3543042,Simcoe,City,Barrie,Barrie C,80928,69471
+3543052,Simcoe,City,Orillia,Orillia C,63896,48972
+3543064,Simcoe,Town,Wasaga Beach,Wasaga Beach T,66250,54241
+3543068,Simcoe,Township,Tiny,Tiny Tp,77349,65666
+3543071,Simcoe,Township,Tay,Tay Tp,71233,60012
+3543072,Simcoe,Town,Penetanguishene,Penetanguishene T,68926,55901
+3543074,Simcoe,Town,Midland,Midland T,62713,48496
+3544002,Muskoka,Town,Gravenhurst,Gravenhurst T,63372,52010
+3544018,Muskoka,Town,Bracebridge,Bracebridge T,74616,65932
+3544042,Muskoka,Town,Huntsville,Huntsville T,74217,62673
+3546005,Haliburton,Municipality,Highlands East,Highlands East M,57580,47434
+3546015,Haliburton,Township,Minden Hills,Minden Hills Tp,72890,51693
+3547002,Renfrew,Town,Arnprior,Arnprior T,66287,53250
+3547003,Renfrew,Township,McNab/Braeside,McNab-Braeside Tp,81479,75345
+3547020,Renfrew,Township,"Brudenell, Lyndoch and Raglan","Brudenell, Lyndoch and Raglan Tp",49430,38137
+3547043,Renfrew,Township,Admaston/Bromley,Admaston/Bromley Tp,71156,66668
+3547046,Renfrew,Township,Horton,Horton Tp,70605,68433
+3547048,Renfrew,Town,Renfrew,Renfrew T,52925,41223
+3547056,Renfrew,Township,Whitewater Region,Whitewater Region Tp,63863,55794
+3547064,Renfrew,City,Pembroke,Pembroke C,60123,47801
+3547075,Renfrew,Township,Laurentian Valley,Laurentian Valley Tp,85855,75782
+3547076,Renfrew,Town,Petawawa,Petawawa T,84112,76392
+3547090,Renfrew,Town,Laurentian Hills,Laurentian Hills T,76236,65350
+3547096,Renfrew,Town,Deep River,Deep River T,89984,80604
+3547098,Renfrew,Township,"Head, Clara and Maria","Head, Clara and Maria Tp",NA,NA
+3548013,Nipissing,Township,Papineau-Cameron,Papineau-Cameron Tp,62755,51102
+3548019,Nipissing,Township,Mattawan,Mattawan Tp,NA,NA
+3548021,Nipissing,Town,Mattawa,Mattawa T,49771,45155
+3548022,Nipissing,Township,Calvin,Calvin Tp,70121,68525
+3548031,Nipissing,Township,Chisholm,Chisholm Tp,65670,53070
+3548034,Nipissing,Township,East Ferris,East Ferris Tp,92081,81981
+3548044,Nipissing,City,North Bay,North Bay C,70804,56609
+3548055,Nipissing,Municipality,West Nipissing / Nipissing Ouest,West Nipissing M,62782,51422
+3548069,Nipissing,Municipality,Temagami,Temagami M,66079,49757
+3549031,Parry Sound,Municipality,McDougall,McDougall Tp,84896,69419
+3549032,Parry Sound,Town,Parry Sound,Parry Sound T,57991,45854
+3549036,Parry Sound,Township,Carling,Carling Tp,73673,61099
+3549039,Parry Sound,Municipality,Whitestone,Whitestone M,52129,44088
+3549043,Parry Sound,Municipality,Magnetawan,Magnetawan M,64129,50858
+3549046,Parry Sound,Township,Strong,Strong Tp,80663,63976
+3549048,Parry Sound,Village,Sundridge,Sundridge V,63054,38871
+3549054,Parry Sound,Township,Machar,Machar Tp,62971,55683
+3549060,Parry Sound,Municipality,Powassan,Powassan M,69268,62886
+3549066,Parry Sound,Municipality,Callander,Callander M,92358,87649
+3549071,Parry Sound,Township,Nipissing,Nipissing Tp,93678,69751
+3551001,Manitoulin,Township,Tehkummah,Tehkummah Tp,51352,37350
+3551006,Manitoulin,Township,Central Manitoulin,Central Manitoulin Tp,58865,54656
+3551011,Manitoulin,Township,Assiginack,Assiginack Tp,58782,47578
+3551017,Manitoulin,Town,Northeastern Manitoulin and the Islands,Northeastern Manitoulin & The Isl. T,70391,57446
+3551027,Manitoulin,Municipality,Gordon/Barrie Island,Gordon/Barrie Island M,66461,58876
+3551028,Manitoulin,Township,Burpee and Mills,Burpee and Mills Tp,59267,38107
+3552013,Sudbury,Municipality,Markstay-Warren,Markstay-Warren M,69781,54996
+3552026,Sudbury,Town,Espanola,Espanola T,72898,61353
+3552028,Sudbury,Township,Baldwin,Baldwin Tp,65849,67035
+3552092,Sudbury,Township,Chapleau,Chapleau Tp,74470,70201
+3553005,Greater Sudbury / Grand Sudbury,City,Greater Sudbury / Grand Sudbury,Greater Sudbury C,76772,62481
+3554001,Timiskaming,Township,Coleman,Coleman Tp,66338,54725
+3554006,Timiskaming,Town,Latchford,Latchford T,40719,29255
+3554014,Timiskaming,Township,Harris,Harris Tp,113492,90876
+3554020,Timiskaming,City,Temiskaming Shores,Temiskaming Shores C,65325,49760
+3554024,Timiskaming,Township,Kerns,Kerns Tp,64160,56797
+3554029,Timiskaming,Township,Casey,Casey Tp,65274,49879
+3554034,Timiskaming,Township,Hilliard,Hilliard Tp,NA,NA
+3554049,Timiskaming,Township,Evanturel,Evanturel Tp,85745,72083
+3554056,Timiskaming,Township,Matachewan,Matachewan Tp,53737,34176
+3554058,Timiskaming,Township,McGarry,McGarry Tp,47905,29360
+3554066,Timiskaming,Township,Gauthier,Gauthier Tp,NA,NA
+3554068,Timiskaming,Town,Kirkland Lake,Kirkland Lake T,65108,48597
+3556014,Cochrane,Township,Black River-Matheson,Black River - Matheson Tp,71131,58124
+3556027,Cochrane,City,Timmins,Timmins C,78076,65461
+3556031,Cochrane,Town,Iroquois Falls,Iroquois Falls T,69040,55385
+3556042,Cochrane,Town,Cochrane,Cochrane T,64418,53398
+3556048,Cochrane,Town,Smooth Rock Falls,Smooth Rock Falls T,71091,56927
+3556052,Cochrane,Township,Fauquier-Strickland,Fauquier-Strickland Tp,51973,43402
+3556056,Cochrane,Township,Moonbeam,Moonbeam Tp,74172,50349
+3556066,Cochrane,Town,Kapuskasing,Kapuskasing T,66784,53212
+3556070,Cochrane,Township,Val Rita-Harty,Val Rita-Harty Tp,69027,66040
+3556073,Cochrane,Township,Opasatika,Opasatika Tp,NA,NA
+3556076,Cochrane,Town,Hearst,Hearst T,67651,57881
+3556077,Cochrane,Township,Mattice-Val C?t?,Mattice - Val Cote Tp,64437,65039
+3556106,Cochrane,Town,Moosonee,Moosonee T,69483,52376
+3557006,Algoma,Village,Hilton Beach,Hilton Beach V,NA,NA
+3557014,Algoma,Township,Tarbutt and Tarbutt Additional,Tarbutt and Tarbutt Additional Tp,74748,60458
+3557016,Algoma,Township,Johnson,Johnson Tp,57071,47957
+3557019,Algoma,Township,Plummer Additional,Plummer Additional Tp,75156,64126
+3557021,Algoma,Town,Bruce Mines,Bruce Mines T,56858,40539
+3557028,Algoma,Town,Thessalon,Thessalon T,58440,47115
+3557035,Algoma,Municipality,Huron Shores,Huron Shores M,60863,55526
+3557038,Algoma,Town,Blind River,Blind River T,68035,53432
+3557040,Algoma,Township,The North Shore,The North Shore Tp,74570,82996
+3557041,Algoma,City,Elliot Lake,Elliot Lake C,51321,41773
+3557061,Algoma,City,Sault Ste. Marie,Sault Ste. Marie C,69456,56051
+3557076,Algoma,Municipality,Wawa,Wawa M,65824,53354
+3557079,Algoma,Township,Dubreuilville,Dubreuilville Tp,52739,46251
+3557091,Algoma,Township,White River,White River Tp,69464,58732
+3558001,Thunder Bay,Municipality,Neebing,Neebing M,78509,71031
+3558004,Thunder Bay,City,Thunder Bay,Thunder Bay C,71142,57646
+3558011,Thunder Bay,Municipality,Oliver Paipoonge,Oliver Paipoonge M,93328,77473
+3558012,Thunder Bay,Township,Gillies,Gillies Tp,72728,65127
+3558016,Thunder Bay,Township,O'Connor,O'Connor Tp,81794,81720
+3558019,Thunder Bay,Township,Conmee,Conmee Tp,73723,65534
+3558028,Thunder Bay,Township,Shuniah,Shuniah M,103259,82199
+3558034,Thunder Bay,Township,Dorion,Dorion Tp,83779,71546
+3558041,Thunder Bay,Township,Red Rock,Red Rock Tp,70302,62254
+3558051,Thunder Bay,Township,Schreiber,Schreiber Tp,66313,58043
+3558054,Thunder Bay,Township,Terrace Bay,Terrace Bay Tp,70658,60501
+3558075,Thunder Bay,Municipality,Greenstone,Greenstone M,69107,62643
+3559001,Rainy River,Township,Atikokan,Atikokan Tp,62404,46845
+3559011,Rainy River,Township,Alberton,Alberton Tp,116433,111672
+3559012,Rainy River,Town,Fort Frances,Fort Frances T,72775,58841
+3559016,Rainy River,Township,La Vallee,La Vallee Tp,82129,75347
+3559040,Rainy River,Township,Dawson,Dawson Tp,60618,44774
+3560001,Kenora,Township,Ignace,Ignace Tp,57619,51601
+3560010,Kenora,City,Kenora,Kenora C,74594,65164
+3560027,Kenora,City,Dryden,Dryden C,76518,60058
+3560032,Kenora,Township,Ear Falls,Ear Falls Tp,66512,67666
+3560034,Kenora,Municipality,Sioux Lookout,Sioux Lookout M,85416,67034
+3560042,Kenora,Municipality,Red Lake,Red Lake M,101912,97593
+3560049,Kenora,Township,Pickle Lake,Pickle Lake Tp,82545,82946
