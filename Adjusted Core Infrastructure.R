@@ -4,6 +4,9 @@ library(tidyr)
 download.file("https://efis.fma.csc.gov.on.ca/fir/fir.rda", "fir.rda")
 load("fir.rda")
 
+#load household Income Data
+MOFIncomeData <- read.csv("./data/Median Household Income 2011 - MOF.csv")
+
 OCIFeligible <- fir%>%filter(as.numeric(slc.02.41.01) <= 100000 | grepl("North", region))
 
 CoreInfrastructure <- fir%>%
@@ -32,15 +35,14 @@ colnames(CoreInfrastructure) <- make.names(colnames(CoreInfrastructure))
 
 UTCoreInfrastructure <- CoreInfrastructure%>%
   filter(MUNTIER =="UT")%>%
-  mutate("UT.Total.CI" = ifelse(X2014>X2015|is.na(X2015), X2014, X2015))%>%
+  mutate("UT.Total.Core.CI" = ifelse(X2014>X2015|is.na(X2015), X2014, X2015))%>%
   select(LT1NO, UT.Total.CI)
 
 CoreInfrastructure2 <- CoreInfrastructure%>%
-  filter(MUNTIER !="UT")%>%
   mutate("Highest.CI" = ifelse(X2014>X2015|is.na(X2015), X2014, X2015))
 
 CoreInfrastructure3 <- left_join(CoreInfrastructure2, UTCoreInfrastructure, by="LT1NO")%>%
-  select(MUNID, MUNTIER, LT1NO, Highest.CI, UT.Total.CI)
+  select(MUNID, MUNTIER, LT1NO, Highest.CI, UT.Total.Core.CI)
 
 UTWeightedAssessment <- fir%>%
   filter(MARSYEAR >2011, MUNTIER == "UT")%>%
@@ -58,7 +60,7 @@ UTWeigthedAssessment2 <- UTWeightedAssessment%>%
   select(LT1NO, UT.Weighted.CVA)
 
 WeightedAssessment <- fir%>%
-  filter(MARSYEAR >2011, MUNTIER != "UT")%>%
+  filter(MARSYEAR >2011)%>%
   mutate("weighted.cva" = slc.261.9199.02)%>%
   select(MARSYEAR, MUNID, MUNTIER, LT1NO, weighted.cva)%>%
   spread(MARSYEAR, weighted.cva)
@@ -85,6 +87,6 @@ AdjustedCoreInfrastructure <- left_join(CoreInfrastructure3, WeightedAssessment3
     "median" = median(Indicator1, na.rm = TRUE),
     "max" = max(Indicator1, na.rm = TRUE),
     "weighted.Indicator1" = ifelse(Indicator1 > median, (Indicator1 - median)/(max-median), 
-                                   (Indicator1-median)/(median-min)))
+                                   (Indicator1-median)/(median-min))
   )
     
