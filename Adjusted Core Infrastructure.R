@@ -36,12 +36,12 @@ colnames(CoreInfrastructure) <- make.names(colnames(CoreInfrastructure))
 UTCoreInfrastructure <- CoreInfrastructure%>%
   filter(MUNTIER =="UT")%>%
   mutate("UT.Total.Core.CI" = ifelse(X2014>X2015|is.na(X2015), X2014, X2015))%>%
-  select(LT1NO, UT.Total.CI)
+  select(LT1NO, UT.Total.Core.CI)
 
-CoreInfrastructure2 <- CoreInfrastructure%>%
+CoreInfrastructure <- CoreInfrastructure%>%
   mutate("Highest.CI" = ifelse(X2014>X2015|is.na(X2015), X2014, X2015))
 
-CoreInfrastructure3 <- left_join(CoreInfrastructure2, UTCoreInfrastructure, by="LT1NO")%>%
+CoreInfrastructure <- left_join(CoreInfrastructure, UTCoreInfrastructure, by="LT1NO")%>%
   select(MUNID, MUNTIER, LT1NO, Highest.CI, UT.Total.Core.CI)
 
 UTWeightedAssessment <- fir%>%
@@ -52,7 +52,7 @@ UTWeightedAssessment <- fir%>%
   
 colnames(UTWeightedAssessment) <- make.names(colnames(UTWeightedAssessment))
 
-UTWeigthedAssessment2 <- UTWeightedAssessment%>%
+UTWeightedAssessment <- UTWeightedAssessment%>%
   mutate("UT.Weighted.CVA" = ifelse(!is.na(X2015)& X2015 != 0, X2015,
                                         ifelse(!is.na(X2014)& X2014 != 0, X2014,
                                                ifelse(!is.na(X2013)& X2013 !=0, X2013,
@@ -67,26 +67,47 @@ WeightedAssessment <- fir%>%
 
 colnames(WeightedAssessment) <- make.names(colnames(WeightedAssessment))
 
-WeigthedAssessment2 <- WeightedAssessment%>%
+WeightedAssessment <- WeightedAssessment%>%
   mutate("Recent.Weighted.CVA" = ifelse(!is.na(X2015)& X2015 != 0, X2015,
                                         ifelse(!is.na(X2014)& X2014 != 0, X2014,
                                                ifelse(!is.na(X2013)& X2013 !=0, X2013,
                                                       X2012))))%>%
   select(MUNID, MUNTIER, LT1NO, Recent.Weighted.CVA)
   
-WeightedAssessment3 <- left_join(WeigthedAssessment2, UTWeigthedAssessment2, 
+WeightedAssessment <- left_join(WeightedAssessment, UTWeightedAssessment, 
                                  by = "LT1NO")%>%
   mutate("LTUTAssessmentRatio" = Recent.Weighted.CVA/UT.Weighted.CVA)
 
-AdjustedCoreInfrastructure <- left_join(CoreInfrastructure3, WeightedAssessment3,
+AdjustedCoreInfrastructure <- left_join(CoreInfrastructure, WeightedAssessment,
                                         by = c("MUNID", "MUNTIER", "LT1NO"))%>%
-  mutate("adjusted.core.infrastructure" = ifelse(!is.na(UT.Total.CI),
-    Highest.CI +(LTUTAssessmentRatio*UT.Total.CI), Highest.CI),
+  mutate("adjusted.core.infrastructure" = ifelse(!is.na(UT.Total.Core.CI)&!MUNTIER=="UT",
+    Highest.CI +(LTUTAssessmentRatio*UT.Total.Core.CI), Highest.CI),
     "Indicator1" = adjusted.core.infrastructure/Recent.Weighted.CVA,
     "min" = min(Indicator1, na.rm = TRUE),
     "median" = median(Indicator1, na.rm = TRUE),
     "max" = max(Indicator1, na.rm = TRUE),
-    "weighted.Indicator1" = ifelse(Indicator1 > median, (Indicator1 - median)/(max-median), 
+    "Weighted.Indicator1" = ifelse(Indicator1 > median, (Indicator1 - median)/(max-median), 
                                    (Indicator1-median)/(median-min))
   )
-    
+
+AdjustedCoreInfrastructure <- left_join(AdjustedCoreInfrastructure, MOFIncomeData, by = "MUNID")
+
+Households <- fir%>%filter(MARSYEAR == 2014)%>%
+  select(MUNID, "households" = as.numeric(slc.02.40.01))
+
+
+AdjustedCoreInfrastructure <- left_join(AdjustedCoreInfrastructure, Households, by = "MUNID")%>%
+  mutate("Indicator2" = (adjusted.core.infrastructure/households)/MEDIAN.HOUSEHOLD.INCOME..FINANCE.2011....,
+         "Weighted.Indicator2" =  ifelse(Indicator2 > median(Indicator2), 
+                                           (Indicator2-median(Indicator2))/(max(Indicator2)-Indicator2),
+                                           (Indicator2-median(Indicator2))/(Indicator2 - min(Indicator2))
+                                           ),
+         "Infrastructure.Index" = (Weighted.Indicator1 + Weighted.Indicator2)/2
+         )
+
+#### $$$ Calculations
+
+Dollars <- AdjustedCoreInfrastructure%>%
+  mutate("funding.per.100k" = (394+24*(Infrastructure.Index-median(Infrastructure.Index)))*1.1,
+         "Total.Funding" = ifelse((funding.per.100k*Highest.CI/100000) > 50000, funding.per.100k*Highest.CI/100000, 50000))%>%
+  select(MUNID, LT1NAME, funding.per.100k, Total.Funding)
